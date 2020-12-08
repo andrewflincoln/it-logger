@@ -21,7 +21,6 @@
       "date": "03-02-2020",
       "tech": "Sara Wilson"
     }
-
   ],
   "techs": [
     {
@@ -38,6 +37,11 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Sally",
+      "lastName": "Bloomfield",
+      "id": 4
     }
   ]
 }
