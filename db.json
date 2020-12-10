@@ -1,11 +1,32 @@
 {
   "logs": [
     {
-      "message": "Fixed the internet",
-      "attention": false,
+      "id": 2,
+      "message": "broke the internet",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-12-10T22:54:55.495Z"
+    },
+    {
+      "id": 3,
+      "message": "fucked it all up",
+      "attention": true,
       "tech": "Sara Wilson",
-      "date": "2020-12-10T00:51:38.179Z",
-      "id": 2
+      "date": "2020-12-10T22:56:17.606Z"
+    },
+    {
+      "message": "you're shit's all fucked up!",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-12-10T22:08:37.769Z",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "message": "i quit",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-12-10T22:56:53.156Z"
     }
   ],
   "techs": [
