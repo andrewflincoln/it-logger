@@ -1,25 +1,11 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hd on workstation 005",
+      "message": "Fixed the internet",
       "attention": false,
-      "date": "03-02-2020",
-      "tech": "Sam Smith"
-    },
-    {
-      "id": 2,
-      "message": "Workstation 007 not posting",
-      "attention": true,
-      "date": "03-02-2020",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
-      "attention": false,
-      "date": "03-02-2020",
-      "tech": "Sara Wilson"
+      "tech": "Sara Wilson",
+      "date": "2020-12-10T00:51:38.179Z",
+      "id": 2
     }
   ],
   "techs": [
