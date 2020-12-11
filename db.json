@@ -2,10 +2,10 @@
   "logs": [
     {
       "id": 2,
-      "message": "broke the internet",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2020-12-10T22:54:55.495Z"
+      "message": "fixed the internet",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-12-10T23:10:55.931Z"
     },
     {
       "id": 3,
