@@ -4,15 +4,15 @@
       "id": 2,
       "message": "fixed the internet",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2020-12-10T23:10:55.931Z"
+      "tech": "John Doe",
+      "date": "2020-12-11T23:47:11.623Z"
     },
     {
       "id": 3,
       "message": "fucked it all up",
       "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2020-12-10T22:56:17.606Z"
+      "tech": "John Doe",
+      "date": "2020-12-11T23:40:02.784Z"
     },
     {
       "message": "you're shit's all fucked up!",

@@ -82,7 +82,7 @@ export const deleteLog = (id) => async dispatch => {
 
 
 //Update log on server
-export const updateLog = (log) => async dispatch => {
+export const updateLog = log => async dispatch => {
   try {
     setLoading()
     const res = await fetch(`/logs/${log.id}`, {
@@ -93,7 +93,7 @@ export const updateLog = (log) => async dispatch => {
       }
     })
 
-    const data = res.json()
+    const data = await res.json()
 
     dispatch({
       type: UPDATE_LOG,
@@ -140,8 +140,6 @@ export const clearCurrent = () => {
     type: CLEAR_CURRENT,
   }
 }
-
-
 
 
 //set loading to true
